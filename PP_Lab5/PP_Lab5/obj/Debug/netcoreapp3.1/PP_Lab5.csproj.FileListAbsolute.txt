@@ -1,0 +1,11 @@
+C:\Users\Valeriy\Desktop\PP_Lab5\PP_Lab5\bin\Debug\netcoreapp3.1\PP_Lab5.exe
+C:\Users\Valeriy\Desktop\PP_Lab5\PP_Lab5\bin\Debug\netcoreapp3.1\PP_Lab5.deps.json
+C:\Users\Valeriy\Desktop\PP_Lab5\PP_Lab5\bin\Debug\netcoreapp3.1\PP_Lab5.runtimeconfig.json
+C:\Users\Valeriy\Desktop\PP_Lab5\PP_Lab5\bin\Debug\netcoreapp3.1\PP_Lab5.runtimeconfig.dev.json
+C:\Users\Valeriy\Desktop\PP_Lab5\PP_Lab5\bin\Debug\netcoreapp3.1\PP_Lab5.dll
+C:\Users\Valeriy\Desktop\PP_Lab5\PP_Lab5\bin\Debug\netcoreapp3.1\PP_Lab5.pdb
+C:\Users\Valeriy\Desktop\PP_Lab5\PP_Lab5\obj\Debug\netcoreapp3.1\PP_Lab5.csprojAssemblyReference.cache
+C:\Users\Valeriy\Desktop\PP_Lab5\PP_Lab5\obj\Debug\netcoreapp3.1\PP_Lab5.AssemblyInfoInputs.cache
+C:\Users\Valeriy\Desktop\PP_Lab5\PP_Lab5\obj\Debug\netcoreapp3.1\PP_Lab5.AssemblyInfo.cs
+C:\Users\Valeriy\Desktop\PP_Lab5\PP_Lab5\obj\Debug\netcoreapp3.1\PP_Lab5.dll
+C:\Users\Valeriy\Desktop\PP_Lab5\PP_Lab5\obj\Debug\netcoreapp3.1\PP_Lab5.pdb
